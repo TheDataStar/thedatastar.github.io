@@ -1,1 +1,1 @@
-# thedatastar.github.io
+# datastar.github.io
